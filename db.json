@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Giày thời trang Sneaker đẹp nhất",
+      "img": "https://res.cloudinary.com/dfbjxzinc/image/upload/v1686512210/thang/as2lilxpqzcpuw9x43pn.jpg",
+      "text": "Mẫu giày Sneaker thể thao với kiểu dáng trẻ trung, hiện đại từ thương hiệu Juno"
+    },
+    {
+      "name": "Giày thời trang Sneaker đẹp nhất",
+      "img": [
+        "https://res.cloudinary.com/dfbjxzinc/image/upload/v1686512321/thang/zijtd0cnh8yzjtxxdhhm.jpg"
+      ],
+      "text": "Mẫu giày Sneaker thể thao với kiểu dáng trẻ trung, hiện đại từ thương hiệu Juno",
+      "id": 2
+    },
+    {
+      "name": "Giày thời trang Sneaker đẹp nhất",
+      "img": [
+        "https://res.cloudinary.com/dfbjxzinc/image/upload/v1686512335/thang/rrgxdojiwzbhzrfv509r.jpg"
+      ],
+      "text": "Mẫu giày Sneaker thể thao với kiểu dáng trẻ trung, hiện đại từ thương hiệu Juno",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "pass": "123456"
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
